@@ -34,7 +34,6 @@
   ##
  
 <div> 
- <a href="mailto:lucasalves16.la@gmail.com?Subject=GitHub%20Contato" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the- badge&logo=gmail&logoColor=white" target= "_blank"></a>
-  <a href = "https://linkedin.com/in/lucas-alves-933448127/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ <a href = "https://linkedin.com/in/lucas-alves-933448127/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <a href="mailto:lucasalves16.la@gmail.com?Subject=GitHub%20Contato"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a> 
 </div>

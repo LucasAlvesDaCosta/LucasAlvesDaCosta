@@ -1,4 +1,5 @@
 ## Olá, meu nome é Lucas Alves 👋
+#### Sou analista desenvolvedor Pleno em Spring Boot - Java 
 
 
 - 🔭 I’m currently not working.
@@ -6,6 +7,7 @@
 - 👯 I’m looking to collaborate on public projects.
 - 🤔 I’m looking for help with development web using Java.
 - 🎓 Tecnologia em Análise e desenvolvimento de Sistemas - IFG.
+- Experience 3+ years in Java.
 <div align="center">
   <a href="https://github.com/LucasAlvesDaCosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvesDaCosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

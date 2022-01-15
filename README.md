@@ -48,3 +48,53 @@
  <a href = "https://linkedin.com/in/lucas-alves-933448127/"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="mailto:lucasalves16.la@gmail.com?Subject=GitHub%20Contato"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"></a> 
 </div>
+  
+## Competências:
+  
+* Projetos Spring Boot: monorepositório Git, projeto em camadas, entidades, perfis de projeto, seeding da base de dados, web services REST, padrão DTO, CRUD completo, tratamento de exceções, dados de auditoria e paginação de dados. Postman para testar as requisições.
+
+* Testes automatizados: TDD, JUnit com e sem Spring Boot, testar repositories, services e resources, testes de integração, mockar dependências com Mockito e MockBean, realizar assertions.
+
+* Validação e segurança: validação de dados com Bean Validation, autenticação e autorização com **OAuth2 e JWT.**
+
+* Dominio e ORM: modelo conceitual complexo com ORM e seed de banco de dados. 
+
+* Autorizações customizadas: em nível de serviço, conteúdo customizado para o usuário logado, refresh token, pré-autorização de métodos.
+
+* Consultas ao banco de dados com JPA e JPQL, Resolver problema das N+1 consultas, consultas nativas com SQL. Bases de dados: Postgrees, mySql, H2.
+
+* Docker, implantação, CI/CD: fundamentos de Docker, imagens e containers, Docker Hub, build e implantação manual de projetos Spring Boot na AWS (EC2, RDS e S3), CI/CD com Heroku, AWS e Github Actions. storage S3 da Amazon AWS, upload e imagens.
+
+* Configurações com: YAML e properties.
+
+* Spring web MVC, Arquitetura REST com JAX RS hateoas aplicado em projetos.
+
+* Filters e FeingClient lib.
+
+* Design patterns: Singleton,  Strategy, facade e MVC.
+
+* Spring web flux e Spring Cloud.
+  
+* Geração de documentação de API com Swagger.
+
+* Consumo de APIs (free) para autorização de recursos.
+  
+* Boas práticas de desenvolvimento e qualidade de software (CLEAN CODE e REFACTORING).
+  
+* **Java 8 - 11:** Collections, Paradigma funcional, Threads, Sockets, pararell streams, modularização com jigsaw, lambda e Alta ordem.
+ 
+###
+ * **Trilha de aprendizagem:** Microsserviços e NoSQL com Spring Boot (MongoDB e Cassandra) & Desenvolvedor frontEnd ReactJs.
+
+
+### Metodologias ágeis:
+  * Scrum (Git + Kanban), Kanban (Trello) e eXtreme Programming (XP).
+  
+* Experiências de aprendizagem / nocões e conhecimentos
+  - Sistemas distribuidos: Comunicação remota com Java, Arduino, Microcontroladores, servidores de aplicação e IoT.
+  - Administração de serviços para internet: Configuração de servidores Linux para administrar redes locais.
+  - Seguranção da informação: Testes de intrusão e configurações de segurança em ambientes Linux e Windows.
+  - Banco de dados orintado a grafos com Python3.
+  - Engenharia de Requisitos.
+  - Modelagem conceitual.
+  - Programação web (HTML, CSS e JavaScript)

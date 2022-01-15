@@ -93,8 +93,8 @@
 * Experiências de aprendizagem / nocões e conhecimentos
   - Sistemas distribuidos: Comunicação remota com Java, Arduino, Microcontroladores, servidores de aplicação e IoT.
   - Administração de serviços para internet: Configuração de servidores Linux para administrar redes locais.
-  - Seguranção da informação: Testes de intrusão e configurações de segurança em ambientes Linux e Windows.
-  - Banco de dados orintado a grafos com Python3.
+  - Segurança da informação: Testes de intrusão e configurações de segurança em ambientes Linux e Windows.
+  - Banco de dados orientado a grafos com Python3.
   - Engenharia de Requisitos.
   - Modelagem conceitual.
   - Programação web (HTML, CSS e JavaScript)

@@ -2,7 +2,7 @@
 #### Sou analista desenvolvedor Pleno em Spring Boot - Java 
 
 
-- 🔭 I’m currently not working.
+- 🔭 I’m currently working at Brazzo.
 - 🌱 I’m currently learning Java web Spring Boot FullStack.
 - 👯 I’m looking to collaborate on public projects.
 - 🤔 I’m looking for help with development web using Java.
